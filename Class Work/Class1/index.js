@@ -1,6 +1,6 @@
 const { add,sub} = require("./math");
 
-console.log(add(3, 3));
+console.log(add(3, 2));
 
 
 
